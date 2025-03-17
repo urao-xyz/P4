@@ -28,5 +28,5 @@ python puissance4.py
 ## Contribuer
 Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou ouvrir une issue pour discuter des changements que vous souhaitez apporter.
 
-## Auteurs
+## Auteur
 - Téo Champion (https://github.com/urao-xyz)
